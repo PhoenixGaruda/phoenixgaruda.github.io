@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 gemspec
-gem "airspace"
+gem "jekyll-airspace"
