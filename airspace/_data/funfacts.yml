@@ -1,0 +1,12 @@
+- counter: 3
+  icon: ion-ios-alarm-outline
+  text: 3 Hour Meetings
+- counter: 21
+  icon: ion-ios-body-outline
+  text: Members in our Company
+- counter: 7
+  icon: ion-ios-briefcase-outline
+  text: Advisors
+- counter: 1
+  icon: ion-ios-heart-outline
+  text: Dollar to Charity
